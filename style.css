@@ -17,7 +17,13 @@ h1{
     width: 300px;
     margin: 15px;
 }
-
+@media screen and (max-width:600px) {
+    .avatar{
+        height: 200px;
+        width: 200px;
+        margin: 10px;
+    }    
+}
 .project-text-bottom-left{
 color: antiquewhite;
 }
@@ -25,15 +31,20 @@ color: antiquewhite;
 
     height: 300px;
     width: 300px;
-    margin: 15px;
+    margin: 10px;
 }    
-
+@media screen and (max-width:600px) {
+    .work-image{
+        margin-right: 15px;
+    }    
+}
 
 #starry_sky_image{
     height: 400px;
     width:  400px;
-    margin: 15px;   
+    margin: 10px;   
 }
+
 .project-text{
     color:antiquewhite
 }
