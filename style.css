@@ -1,9 +1,48 @@
 *{
-    margin:0;
-    padding:0
+    margin: 10px;
+    padding: 10px;
 }
 
 body {
     background-color:black;
     color:antiquewhite
+}
+h1{
+    font-family: 'Cedarville Cursive', cursive;
+    
+}
+
+.avatar{
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+
+.project-text-bottom-left{
+color: antiquewhite;
+}
+.work-image{
+
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}    
+
+
+#starry_sky_image{
+    height: 400px;
+    width:  400px;
+    margin: 15px;   
+}
+.project-text{
+    color:antiquewhite
+}
+.container{
+    position: absolute;
+    text-align: center;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
 }
