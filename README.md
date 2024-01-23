@@ -8,7 +8,7 @@ Portfolio Displaying about me, portfolio work, and contact info.
 
 ## URLS
 Live URL
-Github Repo URL
+Github Repo URL: https://github.com/MrOahu/David-Wright-Portfolio/tree/main
 
 ## Author
 David Wright
